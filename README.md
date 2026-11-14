@@ -1,19 +1,8 @@
 ## Hi, I'm Sacha Lemée
 
-Software engineering student at **EPITECH Paris** (class of 2029). These are my EPITECH team projects. My professional profile is [@sachalemee](https://github.com/sachalemee).
+Software engineering student at **EPITECH Paris** (class of 2029). These are my EPITECH team projects, from the most recent to the oldest. My professional profile is [@sachalemee](https://github.com/sachalemee).
 
 ### EPITECH projects
-
-| Project | Stack | Description |
-| --- | --- | --- |
-| **SCRAT** | `Rust` `Axum` `PostgreSQL` | Compliance and risk assessment tool for IT, IS and Data projects, with a local web interface. Built at Fujitsu France. |
-| **DRUID** | `C` `systemd` | Cross-platform tool (Linux and Windows) that inventories connected USB devices and classifies them against a reference database. Built at Fujitsu France. |
-| **Portfolio** | `Next.js` `TypeScript` `GitHub Actions` `Vercel` | Bilingual personal website with an interactive terminal, deployed through a CI/CD pipeline. |
-| **Test infrastructure** | `VMware ESXi` `Active Directory` `Ansible` | Full virtualized test environment with automated provisioning and scheduled tasks (Ansible, cron). |
-
-### EPITECH projects
-
-Team projects, hosted on my student account [@sacha-lemee](https://github.com/sacha-lemee) so that every teammate keeps credit for their commits.
 
 | Project | Stack | Description | Team |
 | --- | --- | --- | --- |
